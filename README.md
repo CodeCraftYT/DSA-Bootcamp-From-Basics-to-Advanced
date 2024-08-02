@@ -13,22 +13,13 @@ Welcome to the Introduction to DSA-Bootcamp-From-Basics-to-Advanced course. This
 - [License](#license)
 - [Contact](#contact)
 
-- ## To-Do List
-
-- [ ] Task 1: Initial setup
-- [ ] Task 2: Create project structure
-- [ ] Task 3: Implement feature X
-- [ ] Task 4: Write documentation
-- [ ] Task 5: Code review and testing
-- [ ] Task 6: Final deployment
-
 ## Course Structure
-- **Module 1: Introduction to Programming**   &#x2714
+- [ ] **Module 1: Introduction to Programming**   &#x2714
   - Overview of the basics of XYZ.
   - [Lecture Notes](Module1/LectureNotes.md)
   - [Assignment 1](Module1/Assignment1.md)
   - [Additional Reading](Module1/Resources/AdditionalReading.md)
-- **Module 2: Advanced Concepts**
+- [ ] **Module 2: Advanced Concepts**
   - Deep dive into more complex aspects of XYZ.
   - [Lecture Notes](Module2/LectureNotes.md)
   - [Assignment 2](Module2/Assignment2.md)
