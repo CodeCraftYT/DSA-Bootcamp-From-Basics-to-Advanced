@@ -14,7 +14,7 @@ Welcome to the Introduction to DSA-Bootcamp-From-Basics-to-Advanced course. This
 - [Contact](#contact)
 
 ## Course Structure
-- **Module 1: Introduction to XYZ**
+- **Module 1: Introduction to Programming
   - Overview of the basics of XYZ.
   - [Lecture Notes](Module1/LectureNotes.md)
   - [Assignment 1](Module1/Assignment1.md)
