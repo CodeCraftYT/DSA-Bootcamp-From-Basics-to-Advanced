@@ -15,7 +15,7 @@ Welcome to the Introduction to DSA-Bootcamp-From-Basics-to-Advanced course. This
 
 ## Course Structure
 ## Beginner Level
-- [ ] **Module 1: Introduction to Programming**   &#x2714
+- [ ] **Module 1: Introduction to Programming**
   - [ ] Overview of Data Structures and Algorithms
   - [ ] Importance and Applications of Data Structures and Algorithms
   - [ ] Course Structure and Objective
@@ -32,8 +32,11 @@ Welcome to the Introduction to DSA-Bootcamp-From-Basics-to-Advanced course. This
   - [Lecture Notes](Module2/LectureNotes.md)
   - [Assignment 2](Module2/Assignment2.md)
   - [Additional Reading](Module2/Resources/AdditionalReading.md)
-- [ ] **Module 4: Greedy Algorithm**
-  - Deep dive into more complex aspects of XYZ.
+- [ ] **Module 3: Basic Data Structures**
+  - [ ] Array :- Definition and Properties, Operations (Insertion, Deletion, Traversal), Multidimensional Arrays, Dynamic Arrays (e.g., ArrayList in Java, Vector in C++).
+  - [ ] Linked Lists :- Singly Linked List, Doubly Linked List, Circular Linked List, Basic Operations (Insertion, Deletion, Traversal).
+  - [ ] Stacks :- LIFO Principle, Implementation Using Arrays and Linked Lists, Operations (Push, Pop, Peek), Applications (Expression Evaluation, Backtracking).
+  - [ ] 
   - [Lecture Notes](Module2/LectureNotes.md)
   - [Assignment 2](Module2/Assignment2.md)
   - [Additional Reading](Module2/Resources/AdditionalReading.md)
