@@ -14,12 +14,54 @@ Welcome to the Introduction to DSA-Bootcamp-From-Basics-to-Advanced course. This
 - [Contact](#contact)
 
 ## Course Structure
+## Beginner Level
 - [ ] **Module 1: Introduction to Programming**   &#x2714
-  - Overview of the basics of XYZ.
+  - [ ] Overview of Data Structures and Algorithms
+  - [ ] Importance and Applications of Data Structures and Algorithms
+  - [ ] Course Structure and Objective
   - [Lecture Notes](Module1/LectureNotes.md)
   - [Assignment 1](Module1/Assignment1.md)
   - [Additional Reading](Module1/Resources/AdditionalReading.md)
-- [ ] **Module 2: Advanced Concepts**
+- [ ] **Module 2: Performance Analysis**
+  - [ ] Space Complexity, Time Complexity, Asymptotic Notation()
+  - [ ] Best, Average, and Worst Case Analysis
+           - Basic Mathematical Tools
+           - Summations
+           - Recurrence Relations
+           - Master Theorem
+  - [Lecture Notes](Module2/LectureNotes.md)
+  - [Assignment 2](Module2/Assignment2.md)
+  - [Additional Reading](Module2/Resources/AdditionalReading.md)
+- [ ] **Module 4: Greedy Algorithm**
+  - Deep dive into more complex aspects of XYZ.
+  - [Lecture Notes](Module2/LectureNotes.md)
+  - [Assignment 2](Module2/Assignment2.md)
+  - [Additional Reading](Module2/Resources/AdditionalReading.md)
+- [ ] **Module 3: Greedy Algorithm**
+  - Deep dive into more complex aspects of XYZ.
+  - [Lecture Notes](Module2/LectureNotes.md)
+  - [Assignment 2](Module2/Assignment2.md)
+  - [Additional Reading](Module2/Resources/AdditionalReading.md)
+- [ ] **Module 3: Greedy Algorithm**
+  - Deep dive into more complex aspects of XYZ.
+  - [Lecture Notes](Module2/LectureNotes.md)
+  - [Assignment 2](Module2/Assignment2.md)
+  - [Additional Reading](Module2/Resources/AdditionalReading.md)
+
+- [ ] **Module 3: Greedy Algorithm**
+  - Deep dive into more complex aspects of XYZ.
+  - [Lecture Notes](Module2/LectureNotes.md)
+  - [Assignment 2](Module2/Assignment2.md)
+  - [Additional Reading](Module2/Resources/AdditionalReading.md)
+## Intermediate Level
+- [ ] **Module 3: Greedy Algorithm**
+  - Deep dive into more complex aspects of XYZ.
+  - [Lecture Notes](Module2/LectureNotes.md)
+  - [Assignment 2](Module2/Assignment2.md)
+  - [Additional Reading](Module2/Resources/AdditionalReading.md)
+
+## Expert Level
+- [ ] **Module 3: Greedy Algorithm**
   - Deep dive into more complex aspects of XYZ.
   - [Lecture Notes](Module2/LectureNotes.md)
   - [Assignment 2](Module2/Assignment2.md)
