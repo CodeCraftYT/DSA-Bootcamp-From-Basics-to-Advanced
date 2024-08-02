@@ -13,6 +13,15 @@ Welcome to the Introduction to DSA-Bootcamp-From-Basics-to-Advanced course. This
 - [License](#license)
 - [Contact](#contact)
 
+- ## To-Do List
+
+- [ ] Task 1: Initial setup
+- [ ] Task 2: Create project structure
+- [ ] Task 3: Implement feature X
+- [ ] Task 4: Write documentation
+- [ ] Task 5: Code review and testing
+- [ ] Task 6: Final deployment
+
 ## Course Structure
 - **Module 1: Introduction to Programming**   &#x2714
   - Overview of the basics of XYZ.
