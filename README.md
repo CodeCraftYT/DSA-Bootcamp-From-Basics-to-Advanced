@@ -19,7 +19,7 @@ Welcome to the Introduction to DSA-Bootcamp-From-Basics-to-Advanced course. This
   - [ ] Importance and Applications of Data Structures and Algorithms
   - [ ] Course Structure and Objective
   - [Lecture Notes](Module1/LectureNotes.md)
-  - [Assignment 1](Module 1/Assignment1.md)
+  - [Assignment 1](Module_1/Assignment1.md)
   - [Additional Reading](Module1/Resources/AdditionalReading.md)
 - [ ] **Module 2: Performance Analysis**
   - [ ] Space Complexity, Time Complexity, Asymptotic Notation()
